@@ -19,3 +19,8 @@
 .box-inside-number.opened {
   filter: none;
 }
+
+.stats {
+  padding: 10px;
+  text-align: center;
+}
